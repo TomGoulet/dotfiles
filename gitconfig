@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = t.gouletpro@gmail.com
-	name = Thomas Goulet
+	name = Thomas GOULET
 	signingkey = --help
 [filter "lfs"]
 	required = true
